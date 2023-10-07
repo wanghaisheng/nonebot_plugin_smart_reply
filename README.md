@@ -1,3 +1,6 @@
+整合claude
+用作seo brandbuilding场景
+
 # nonebot2智能(障)回复插件
 
     问问提前请务必看完readme, 这是一个融合了openai, newbing, 词库的智障回复插件
